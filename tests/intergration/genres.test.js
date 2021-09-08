@@ -10,7 +10,7 @@ describe("/api/genres", () => {
     server = require("./../../index");
   });
   afterEach(async () => {
-    server.close();
+    await server.close();
     await Genre.remove({});
   });
 
@@ -185,6 +185,7 @@ describe("/api/genres", () => {
       expect(res.body).toHaveProperty("name", newName);
     });
   });
+
   describe("DELETE /:id", () => {
     let token;
     let genre;
