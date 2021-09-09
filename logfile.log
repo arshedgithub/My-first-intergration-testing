@@ -1857,3 +1857,167 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:33:58.537Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:33:59.259Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:33:59.295Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:10.732Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:10.749Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:11.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:11.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:11.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:11.836Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:12.355Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:12.383Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:12.395Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:12.413Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T01:50:13.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T01:50:13.170Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:44.198Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:44.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:44.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:44.304Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:45.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:45.518Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:57.695Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:57.765Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:57.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:57.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T02:08:58.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T02:08:58.198Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:38.555Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:38.618Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:38.763Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:38.583Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:39.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:39.095Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:39.254Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:39.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:39.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:39.564Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:34:43.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:34:43.303Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:13.878Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:13.876Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:13.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:14.043Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:14.562Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:14.628Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:14.706Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:14.769Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:14.902Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:15.048Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:15.121Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:15.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:15.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:15.580Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:15.864Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:16.731Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:16.797Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:16.872Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:16.974Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:18:16","level":"error","timestamp":"2021-09-09T03:35:17.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:18.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:18.334Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:41.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:41.233Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:41.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:41.422Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:41.887Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:41.994Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:42.097Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:42.170Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:22)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:42.213Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:43.921Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:44.061Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:44.334Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:44.519Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:44.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:44.573Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:44.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:44.594Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:44.659Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:44.710Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.Object.<anonymous>.rentalSchema.methods.return (/home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/models/rental.js:68:68)\n    at /home/arshed/Videos/node.js for beginners/13 Integration Testing/13- Integration Testing/intergration-testing/routes/returns.js:17:16","level":"error","timestamp":"2021-09-09T03:35:44.755Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:35:44.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:35:44.903Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:05.604Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:05.885Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:06.899Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:07.094Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:08.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:09.002Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:09.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:09.579Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:10.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:10.785Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:36:11.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:36:11.300Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:06.291Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:06.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:06.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:06.663Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:07.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:07.334Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:07.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:07.900Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:08.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:08.125Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:37:09.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:37:09.232Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:41:56.722Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:41:57.154Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:41:57.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:41:58.112Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:00.260Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:00.542Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:00.531Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:01.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:02.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:02.478Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:02.993Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:03.088Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:44.984Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:45.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:45.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:45.344Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:45.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:45.727Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:46.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:46.656Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:46.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:46.750Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:42:48.054Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:42:48.116Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:45.048Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:45.281Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:45.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:46.251Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:46.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:47.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:48.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:48.633Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:49.829Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:46:49.960Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:50.044Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:46:50.097Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:37.015Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:36.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:37.174Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:37.210Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:38.488Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:38.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:38.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:38.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:39.007Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:39.092Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T03:47:40.712Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T03:47:40.737Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:06.970Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:06.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:07.897Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:07.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:07.920Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:09.082Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:37.156Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:37.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:37.370Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:37.433Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-09-09T16:32:40.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2021-09-09T16:32:40.865Z"}
